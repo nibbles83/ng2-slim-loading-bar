@@ -23,6 +23,10 @@
     "bar",
     "progress"
   ],
+  "files": [
+    "src",
+    "index.ts"
+  ],
   "author": "Sergey Akopkokhyants",
   "license": "MIT",
   "bugs": {
