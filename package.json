@@ -24,11 +24,7 @@
     "progress"
   ],
   "files": [
-    "src",
-    "config",
-    "tests",
-    "index.ts",
-    "tsconfig.json"
+    "*"
   ],
   "author": "Sergey Akopkokhyants",
   "license": "MIT",
